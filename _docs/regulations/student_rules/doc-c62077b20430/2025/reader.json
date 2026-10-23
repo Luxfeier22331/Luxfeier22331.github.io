@@ -1,0 +1,66 @@
+{
+  "docId": "doc_site_attendance",
+  "elements": [
+    {
+      "anchor": "document-body",
+      "kind": "heading",
+      "level": 2,
+      "rootUnitId": "attendance-root-heading",
+      "text": "文档正文"
+    },
+    {
+      "kind": "paragraph",
+      "rootUnitId": "attendance-root",
+      "text": "2025 版测试正文：学生应按历史规定参加教学活动。"
+    },
+    {
+      "kind": "paragraph",
+      "rootUnitId": "regular-enumeration",
+      "text": "一、这是一条普通正文，不应自动升级为标题。"
+    },
+    {
+      "kind": "list",
+      "rootUnitId": "attendance-list",
+      "text": "按时参加教学活动\n按要求履行请假手续"
+    },
+    {
+      "kind": "blockquote",
+      "rootUnitId": "attendance-quote",
+      "text": "具体要求以当前公开版本为准。"
+    },
+    {
+      "anchor": "attendance-requirements",
+      "kind": "heading",
+      "level": 3,
+      "rootUnitId": "attendance-requirements-heading",
+      "text": "教学活动要求"
+    },
+    {
+      "anchor": "attendance-leave-process",
+      "kind": "heading",
+      "level": 4,
+      "rootUnitId": "attendance-leave-process-heading",
+      "text": "请假手续"
+    },
+    {
+      "kind": "paragraph",
+      "rootUnitId": "unsafe-html-text",
+      "text": "<img src=x onerror=alert(1)>"
+    },
+    {
+      "anchor": "course-map",
+      "kind": "heading",
+      "level": 2,
+      "rootUnitId": "course-map-heading",
+      "text": "六、课程地图"
+    }
+  ],
+  "schemaVersion": "campus_docs_reader.v3",
+  "supplements": [
+    {
+      "kind": "course_maps",
+      "path": "course-maps.json"
+    }
+  ],
+  "versionId": "doc_site_attendance_history"
+}

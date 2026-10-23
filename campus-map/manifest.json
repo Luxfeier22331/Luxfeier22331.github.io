@@ -1,0 +1,29 @@
+{
+	"attribution": [
+		"© <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap contributors</a>"
+	],
+	"campuses": {
+		"fengtai": {
+			"bounds": [
+				116.10310136576231,
+				39.80568409255671,
+				116.11805609538932,
+				39.8142909422097
+			],
+			"geojsonUrl": "/campus-map/assets/3f1b0b4b27409c8a40e5512a57f8a0f31c0f12addfc5130de0a5b716b09cc4f8.geojson",
+			"name": "丰台校区"
+		},
+		"haidian": {
+			"bounds": [
+				116.3084827,
+				39.9444838,
+				116.3194888,
+				39.9556239
+			],
+			"geojsonUrl": "/campus-map/assets/8d3bb24edcd4287ef6ccba0c5825c4a45b5a058fa4feb653f99a34be6b5677b9.geojson",
+			"name": "海淀校区"
+		}
+	},
+	"licenseBoundary": "Campus GeoJSON is derived from OpenStreetMap data under ODbL 1.0 and is not covered by the repository Apache-2.0 license.",
+	"placesUrl": "/campus-map/places/151bddefbf5f9e1f1a4ff4edc74d5a428394907c43722ae68d7e7ac85a5e0226.json"
+}

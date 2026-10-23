@@ -1,0 +1,37 @@
+{
+  "docId": "doc_undergraduate_1",
+  "elements": [
+    {
+      "kind": "paragraph",
+      "rootUnitId": "preamble",
+      "text": "本科培养方案示例文档 1的公开测试正文，用于验证目录、搜索和阅读布局。"
+    },
+    {
+      "anchor": "overview",
+      "kind": "heading",
+      "level": 2,
+      "rootUnitId": "overview-heading",
+      "text": "基本说明"
+    },
+    {
+      "kind": "paragraph",
+      "rootUnitId": "overview",
+      "text": "本节包含足够长的中文说明，用于验证窄屏换行、目录定位和搜索摘要。"
+    },
+    {
+      "anchor": "details",
+      "kind": "heading",
+      "level": 2,
+      "rootUnitId": "details-heading",
+      "text": "办理与适用范围"
+    },
+    {
+      "kind": "paragraph",
+      "rootUnitId": "details",
+      "text": "详细要求以当前公开版本为准。"
+    }
+  ],
+  "schemaVersion": "campus_docs_reader.v3",
+  "supplements": [],
+  "versionId": "doc_undergraduate_1_history"
+}

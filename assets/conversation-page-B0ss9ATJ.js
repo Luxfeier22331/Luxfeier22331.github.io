@@ -1,0 +1,1 @@
+import{f as e}from"./createLucideIcon-D7CM80zt.js";import{t}from"./qa-shell-MTsaa3wU.js";import{I as n}from"./index-DIsSHjfU.js";var r=e();function i(){let{conversationId:e}=n({from:`/c/$conversationId`});return(0,r.jsx)(t,{assistantThreadId:e})}export{i as ConversationPage};

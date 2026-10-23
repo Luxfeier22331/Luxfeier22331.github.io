@@ -1,0 +1,107 @@
+{
+	"chunks": [
+		{
+			"key": "documentTitle.1.map",
+			"data": "[[\"学\",[[0,1,2,3]]],[\"生\",[null,[0,1,2,3]]],[\"考\",[null,null,[0,1,2,3]]],[\"勤\",[null,null,null,[0,1,2,3]]],[\"管\",[null,null,null,null,[0,1,2,3]]],[\"理\",[null,null,null,null,null,[0,1,2,3]]],[\"规\",[null,null,null,null,null,null,[0,1,2,3]]],[\"定\",[null,null,null,null,null,null,null,[0,1,2,3]]],[\"本\",[[4,5,6]]],[\"科\",[null,[4,5,6]]],[\"培\",[null,null,[4,5,6]]],[\"养\",[null,null,null,[4,5,6]]],[\"方\",[null,null,null,[4,5,6]]],[\"案\",[null,null,null,null,[4,5,6]]],[\"示\",[null,null,null,null,null,[4,5,6]]],[\"例\",[null,null,null,null,null,[4,5,6]]],[\"文\",[null,null,null,null,null,null,[4,5,6]]],[\"档\",[null,null,null,null,null,null,null,[4,5,6]]],[\" \",[null,null,null,null,null,null,null,[4,5,6]]],[\"1\",[null,null,null,null,null,null,null,null,[4,5,6]]]]"
+		},
+		{
+			"key": "sectionTitle.1.map",
+			"data": "[[\"请\",[[0]]],[\"假\",[null,[0]]],[\"手\",[null,null,[0]]],[\"续\",[null,null,null,[0]]],[\"教\",[[1]]],[\"学\",[null,[1]]],[\"活\",[null,null,[1]]],[\"动\",[null,null,null,[1]]],[\"要\",[null,null,null,null,[1]]],[\"求\",[null,null,null,null,null,[1]]],[\"六\",[[2]]],[\"、\",[null,[2]]],[\"课\",[null,null,[2]]],[\"程\",[null,null,null,[2]]],[\"地\",[null,null,null,null,[2]]],[\"图\",[null,null,null,null,null,[2]]],[\"文\",[[3],null,null,null,null,null,[5]]],[\"档\",[null,[3],null,null,null,null,null,[5]]],[\"正\",[null,null,[3]]],[\"办\",[[4]]],[\"理\",[null,[4]]],[\"与\",[null,null,[4]]],[\"适\",[null,null,null,[4]]],[\"用\",[null,null,null,null,[4]]],[\"范\",[null,null,null,null,null,[4]]],[\"围\",[null,null,null,null,null,null,[4]]],[\"本\",[[5],[6]]],[\"科\",[null,[5]]],[\"培\",[null,null,[5]]],[\"养\",[null,null,null,[5]]],[\"方\",[null,null,null,[5]]],[\"案\",[null,null,null,null,[5]]],[\"示\",[null,null,null,null,null,[5]]],[\"例\",[null,null,null,null,null,[5]]],[\" \",[null,null,null,null,null,null,null,[5]]],[\"1\",[null,null,null,null,null,null,null,null,[5]]],[\"基\",[[6]]],[\"说\",[null,null,[6]]],[\"明\",[null,null,null,[6]]]]"
+		},
+		{
+			"key": "topicLabel.1.map",
+			"data": "[[\"校\",[[0,1,2,3]]],[\"园\",[null,[0,1,2,3]]],[\"生\",[null,null,[0,1,2,3]]],[\"活\",[null,null,null,[0,1,2,3]]]]"
+		},
+		{
+			"key": "searchText.1.map",
+			"data": "[[\"活\",[[0],[3]]],[\"动\",[null,[0,3]]],[\"名\",[null,[0]]],[\"称\",[null,[0]]],[\" \",[null,[0,3,5],[6]]],[\"学\",[[3],[0],[6]]],[\"分\",[null,[0],[6]]],[\"校\",[null,[0]]],[\"级\",[null,[0],[3]]],[\"社\",[null,[0]]],[\"会\",[null,[0]]],[\"实\",[null,[0]]],[\"践\",[null,[0]]],[\"1\",[null,[0,5],[6]]],[\"战\",[null,[0]]],[\"场\",[null,[0]]],[\"医\",[null,[0]]],[\"疗\",[null,[0]]],[\"救\",[null,[0]]],[\"护\",[null,[0]]],[\"0\",[null,[0]]],[\".\",[null,[0]]],[\"5\",[null,[0]]],[\"志\",[null,[0]]],[\"愿\",[null,[0]]],[\"服\",[null,[0]]],[\"务\",[null,[0]]],[\"创\",[null,[0]]],[\"新\",[null,[0]]],[\"项\",[null,[0]]],[\"目\",[null,[0,6],[5]]],[\"课\",[null,[0],[6]]],[\"程\",[null,[0],[6]]],[\"编\",[null,[0]]],[\"号\",[null,[0]]],[\"类\",[null,[0],[6]]],[\"别\",[null,[0],[6]]],[\"性\",[null,[0]]],[\"质\",[null,[0]]],[\"总\",[null,[0]]],[\"时\",[null,[0,3]]],[\"讲\",[null,[0]]],[\"授\",[null,[0]]],[\"验\",[null,[6],[0,5]]],[\"开\",[null,[5],[0,3,4]]],[\"期\",[null,null,[0]]],[\"考\",[null,null,[0]]],[\"核\",[null,null,[0,6]]],[\"方\",[null,[5],[0]]],[\"式\",[null,null,[0]]],[\"备\",[null,null,[0]]],[\"注\",[null,null,[0]]],[\"t\",[null,null,[0]]],[\"e\",[null,null,[0]]],[\"s\",[null,null,[0]]],[\"园\",[null,null,[0]]],[\"公\",[null,[5],[0,3,4]]],[\"共\",[null,null,[0]]],[\"基\",[null,null,[0]]],[\"础\",[null,null,[0]]],[\"必\",[null,null,[0]]],[\"修\",[null,null,[0]]],[\"2\",[null,null,[0,6]]],[\"3\",[null,null,[0]]],[\"4\",[null,null,[0]]],[\"第\",[null,null,[0]]],[\"一\",[null,[3],[0]]],[\"试\",[null,[5],[0]]],[\"测\",[null,[5],[0]]],[\"数\",[null,null,[0]]],[\"据\",[null,null,[0]]],[\"<\",[null,null,[0]]],[\"i\",[null,null,[0]]],[\"m\",[null,null,[0]]],[\"g\",[null,null,[0]]],[\"r\",[null,null,[0]]],[\"c\",[null,null,[0]]],[\"=\",[null,null,[0]]],[\"x\",[null,null,[0]]],[\"o\",[null,null,[0]]],[\"n\",[null,null,[0]]],[\"a\",[null,null,[0]]],[\"l\",[null,null,[0]]],[\"(\",[null,null,[0]]],[\")\",[null,null,[0]]],[\">\",[null,null,[0]]],[\"生\",[null,[3]]],[\"应\",[null,[3]]],[\"按\",[null,[3]]],[\"参\",[null,[3]]],[\"加\",[null,[3]]],[\"教\",[null,[3]]],[\"。\",[null,[3],[4,5,6]]],[\"、\",[null,[3,6],[5]]],[\"这\",[null,[3]]],[\"是\",[null,[3]]],[\"条\",[null,[3]]],[\"普\",[null,[3]]],[\"通\",[null,[3],[6]]],[\"正\",[null,[3],[5]]],[\"文\",[null,[3,5,6]]],[\",\",[null,[3,6],[5]]],[\"不\",[null,[3]]],[\"自\",[null,[3]]],[\"升\",[null,null,[3]]],[\"为\",[null,null,[3,4]]],[\"标\",[null,null,[3]]],[\"题\",[null,null,[3]]],[\"\\n\",[null,null,[3]]],[\"要\",[null,[4],[3,6]]],[\"求\",[null,[4],[3]]],[\"履\",[null,null,[3]]],[\"行\",[null,[6],[3]]],[\"请\",[null,null,[3]]],[\"假\",[null,null,[3]]],[\"手\",[null,null,[3]]],[\"续\",[null,null,[3]]],[\"具\",[null,null,[3]]],[\"体\",[null,null,[3]]],[\"以\",[null,[4],[3]]],[\"当\",[null,[4],[3]]],[\"前\",[null,[4],[3]]],[\"版\",[null,null,[3,4]]],[\"本\",[[5,6],null,[3,4]]],[\"准\",[null,null,[3,4]]],[\"详\",[[4]]],[\"细\",[null,[4]]],[\"科\",[null,[5]]],[\"培\",[null,[5]]],[\"养\",[null,[5]]],[\"案\",[null,[5]]],[\"示\",[null,[5]]],[\"例\",[null,[5]]],[\"档\",[null,[5]]],[\"的\",[null,[5,6]]],[\"用\",[null,[6],[5]]],[\"于\",[null,[6],[5]]],[\"证\",[null,[6],[5]]],[\"录\",[null,[6],[5]]],[\"搜\",[null,null,[5,6]]],[\"索\",[null,null,[5,6]]],[\"和\",[null,null,[5,6]]],[\"阅\",[null,null,[5]]],[\"读\",[null,null,[5]]],[\"布\",[null,null,[5]]],[\"局\",[null,null,[5]]],[\"节\",[null,[6]]],[\"包\",[null,[6]]],[\"含\",[null,[6]]],[\"足\",[null,[6]]],[\"够\",[null,[6]]],[\"长\",[null,[6]]],[\"中\",[null,[6]]],[\"说\",[null,[6]]],[\"明\",[null,[6]]],[\"窄\",[null,[6]]],[\"屏\",[null,[6]]],[\"换\",[null,[6]]],[\"定\",[null,null,[6]]],[\"位\",[null,null,[6]]],[\"摘\",[null,null,[6]]],[\"最\",[null,null,[6]]],[\"低\",[null,null,[6]]],[\"识\",[null,null,[6]]],[\"心\",[null,null,[6]]]]"
+		},
+		{
+			"key": "1.reg",
+			"data": "[0,1,2,3,4,5,6]"
+		}
+	],
+	"entries": [
+		{
+			"anchor": "attendance-leave-process",
+			"docId": "doc_site_attendance",
+			"highlightRootUnitIds": [
+				"attendance-leave-process-heading",
+				"activity-credit-table",
+				"wide-course-table",
+				"unsafe-html-text"
+			],
+			"searchText": "活动名称 学分 校级社会实践 1 战场医疗救护 0.5 志愿服务 创新项目  课程编号 课程名称 课程类别 课程性质 学分 总学时 讲授学时 实验学时 实践学时 开课学期 考核方式 备注 TEST1001 校园公共基础课程 公共基础课 必修 2 32 24 4 4 第一学期 考试 测试数据 <img src=x onerror=alert(1)>",
+			"sectionTitle": "请假手续",
+			"snippet": "活动名称 学分 校级社会实践 1 战场医疗救护 0.5 志愿服务 创新项目  课程编号 课程名称 课程类别 课程性质 学分 总学时 讲授学时 实验学时 实践学时 开课学期 考核方式 备注 TEST1001 校园公共基础课程 公共基础课 必修 2 32 24 4 4 第一学期 考试 测试数据 <img src=x onerror=alert(1)>"
+		},
+		{
+			"anchor": "attendance-requirements",
+			"docId": "doc_site_attendance",
+			"highlightRootUnitIds": [
+				"attendance-requirements-heading"
+			],
+			"searchText": "",
+			"sectionTitle": "教学活动要求",
+			"snippet": "教学活动要求"
+		},
+		{
+			"anchor": "course-map",
+			"docId": "doc_site_attendance",
+			"highlightRootUnitIds": [
+				"course-map-heading"
+			],
+			"searchText": "",
+			"sectionTitle": "六、课程地图",
+			"snippet": "六、课程地图"
+		},
+		{
+			"anchor": "document-body",
+			"docId": "doc_site_attendance",
+			"highlightRootUnitIds": [
+				"attendance-root-heading",
+				"attendance-root",
+				"regular-enumeration",
+				"attendance-list",
+				"attendance-quote"
+			],
+			"searchText": "学生应按时参加教学活动。 一、这是一条普通正文，不应自动升级为标题。 按时参加教学活动\n按要求履行请假手续 具体要求以当前公开版本为准。",
+			"sectionTitle": "文档正文",
+			"snippet": "学生应按时参加教学活动。 一、这是一条普通正文，不应自动升级为标题。 按时参加教学活动\n按要求履行请假手续 具体要求以当前公开版本为准。"
+		},
+		{
+			"anchor": "details",
+			"docId": "doc_undergraduate_1",
+			"highlightRootUnitIds": [
+				"details-heading",
+				"details"
+			],
+			"searchText": "详细要求以当前公开版本为准。",
+			"sectionTitle": "办理与适用范围",
+			"snippet": "详细要求以当前公开版本为准。"
+		},
+		{
+			"anchor": "document",
+			"docId": "doc_undergraduate_1",
+			"highlightRootUnitIds": [
+				"preamble"
+			],
+			"searchText": "本科培养方案示例文档 1的公开测试正文，用于验证目录、搜索和阅读布局。",
+			"sectionTitle": "本科培养方案示例文档 1",
+			"snippet": "本科培养方案示例文档 1的公开测试正文，用于验证目录、搜索和阅读布局。"
+		},
+		{
+			"anchor": "overview",
+			"docId": "doc_undergraduate_1",
+			"highlightRootUnitIds": [
+				"overview-heading",
+				"overview",
+				"table"
+			],
+			"searchText": "本节包含足够长的中文说明，用于验证窄屏换行、目录定位和搜索摘要。 课程类别 最低学分 通识核心课程 12",
+			"sectionTitle": "基本说明",
+			"snippet": "本节包含足够长的中文说明，用于验证窄屏换行、目录定位和搜索摘要。 课程类别 最低学分 通识核心课程 12"
+		}
+	],
+	"schemaVersion": "campus_docs_search_index.v3"
+}

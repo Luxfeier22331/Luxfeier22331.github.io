@@ -1,0 +1,1 @@
+import{r as e,t}from"./query-client-BxoFVU4I.js";async function n(){await t.prefetchQuery(e())}export{n as preloadDiningRoute};

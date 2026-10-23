@@ -1,0 +1,1 @@
+import{f as e}from"./createLucideIcon-D7CM80zt.js";import{t}from"./qa-shell-MTsaa3wU.js";var n=e();function r(){return(0,n.jsx)(t,{assistantThreadId:null})}export{r as HomePage};

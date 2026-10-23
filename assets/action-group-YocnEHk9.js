@@ -1,0 +1,1 @@
+import{f as e,p as t}from"./createLucideIcon-D7CM80zt.js";var n=e();function r({layout:e=`inline`,className:r,...i}){return(0,n.jsx)(`div`,{...i,className:t(e===`footer`?`flex flex-col-reverse gap-2 sm:flex-row sm:justify-end`:`flex flex-wrap items-center gap-2`,r)})}export{r as t};

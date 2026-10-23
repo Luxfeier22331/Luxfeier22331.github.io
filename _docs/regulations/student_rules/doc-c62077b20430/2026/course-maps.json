@@ -1,0 +1,20 @@
+{
+  "docId": "doc_site_attendance",
+  "maps": [
+    {
+      "mapId": "course-map-55858907062a",
+      "parts": [
+        {
+          "height": 649,
+          "imagePath": "course-maps/page-0001-map-01.png",
+          "partId": "page-0001-map-01",
+          "width": 1233
+        }
+      ],
+      "targetRootUnitId": "course-map-heading",
+      "title": "学生考勤课程地图"
+    }
+  ],
+  "schemaVersion": "campus_docs_course_maps.v1",
+  "versionId": "doc_site_attendance_current"
+}

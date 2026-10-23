@@ -1,0 +1,1 @@
+import{d as e,v as t}from"./createLucideIcon-D7CM80zt.js";var n=t(e(),1),r=1024;function i(){let[e,t]=n.useState(void 0);return n.useEffect(()=>{let e=window.matchMedia(`(max-width: 1023px)`),n=()=>{t(window.innerWidth<r)};return e.addEventListener(`change`,n),t(window.innerWidth<r),()=>e.removeEventListener(`change`,n)},[]),!!e}export{i as t};

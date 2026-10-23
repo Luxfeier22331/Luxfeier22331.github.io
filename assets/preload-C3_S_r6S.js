@@ -1,0 +1,1 @@
+import{n as e,t}from"./query-client-B3C_icF3.js";async function n(){await t.prefetchQuery(e()).catch(()=>void 0)}export{n as preloadInterestGroupsRoute};

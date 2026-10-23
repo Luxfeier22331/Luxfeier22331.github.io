@@ -1,0 +1,114 @@
+{
+	"collections": [
+		{
+			"collection": "undergraduate",
+			"corpus": "curriculum",
+			"corpusLabel": "培养方案",
+			"description": "本科阶段的培养方案与课程计划。",
+			"documents": [
+				{
+					"canonicalUrl": "/docs/curriculum/undergraduate/undergraduate-fixture-1",
+					"docId": "doc_undergraduate_1",
+					"documentSlug": "undergraduate-fixture-1",
+					"title": "本科培养方案示例文档 1",
+					"topicId": null,
+					"versions": [
+						{
+							"canonicalUrl": "/docs/curriculum/undergraduate/undergraduate-fixture-1",
+							"readerUrl": "/_docs/curriculum/undergraduate/undergraduate-fixture-1/2026/reader.json",
+							"versionId": "doc_undergraduate_1_current",
+							"versionSlug": "2026"
+						},
+						{
+							"canonicalUrl": "/docs/curriculum/undergraduate/undergraduate-fixture-1/v/2025",
+							"readerUrl": "/_docs/curriculum/undergraduate/undergraduate-fixture-1/2025/reader.json",
+							"versionId": "doc_undergraduate_1_history",
+							"versionSlug": "2025"
+						}
+					]
+				}
+			],
+			"label": "本科培养方案"
+		},
+		{
+			"collection": "second_degree",
+			"corpus": "curriculum",
+			"corpusLabel": "培养方案",
+			"description": "二学位阶段的培养方案与课程计划。",
+			"documents": [],
+			"label": "二学位培养方案"
+		},
+		{
+			"collection": "general_education",
+			"corpus": "curriculum",
+			"corpusLabel": "培养方案",
+			"description": "通识教育课程与修读要求。",
+			"documents": [],
+			"label": "通识教育"
+		},
+		{
+			"collection": "institutional_rules",
+			"corpus": "regulations",
+			"corpusLabel": "规章制度",
+			"description": "学校层面的正式规章制度。",
+			"documents": [],
+			"label": "校级规章"
+		},
+		{
+			"collection": "scoped_rules",
+			"corpus": "regulations",
+			"corpusLabel": "规章制度",
+			"description": "专项事务适用的规章制度。",
+			"documents": [],
+			"label": "专项规章"
+		},
+		{
+			"collection": "student_rules",
+			"corpus": "regulations",
+			"corpusLabel": "规章制度",
+			"description": "学生在校期间适用的管理规定。",
+			"documents": [
+				{
+					"canonicalUrl": "/docs/regulations/student_rules/doc-c62077b20430",
+					"docId": "doc_site_attendance",
+					"documentSlug": "doc-c62077b20430",
+					"title": "学生考勤管理规定",
+					"topicId": "student-life",
+					"versions": [
+						{
+							"canonicalUrl": "/docs/regulations/student_rules/doc-c62077b20430",
+							"readerUrl": "/_docs/regulations/student_rules/doc-c62077b20430/2026/reader.json",
+							"versionId": "doc_site_attendance_current",
+							"versionSlug": "2026"
+						},
+						{
+							"canonicalUrl": "/docs/regulations/student_rules/doc-c62077b20430/v/2025",
+							"readerUrl": "/_docs/regulations/student_rules/doc-c62077b20430/2025/reader.json",
+							"versionId": "doc_site_attendance_history",
+							"versionSlug": "2025"
+						}
+					]
+				}
+			],
+			"label": "学生手册"
+		}
+	],
+	"redirects": [
+		{
+			"fromPath": "/docs/regulations/student_rules/retired-attendance",
+			"statusCode": 308,
+			"toPath": "/docs/regulations/student_rules/doc-c62077b20430"
+		}
+	],
+	"searchIndexUrl": "/_docs/search/sha256/d670f5573c22781df3140b7316fa6b994800dc6e774ee3d9aebd3ca22be7f95d.json",
+	"schemaVersion": "campus_docs_site_index.v5",
+	"topics": [
+		{
+			"corpus": "regulations",
+			"description": "学生在校期间常用的管理规定。",
+			"displayName": "校园生活",
+			"order": 3,
+			"topicId": "student-life"
+		}
+	]
+}
